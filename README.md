@@ -1,6 +1,6 @@
 ## WELCO-OOOOOOOOOOOOOOOOOOO-OME TO THE THUUUUUUUU-UUUUUUUUUNDERDOME
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thejhndwn)](https://github.com/thejhndwn/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thejhndwn&layout=donut)](https://github.com/thejhndwn/github-readme-stats)
 
 <!--
 **thejhndwn/thejhndwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
