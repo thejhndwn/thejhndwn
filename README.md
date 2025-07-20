@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thejhndwn&layout=donut)](https://github.com/thejhndwn/github-readme-stats)
 
-![Elderberries](https://media1.tenor.com/m/eq1ZD8XnCssAAAAC/a-good-insult.gif)
+![Funniest movie of all time](https://media1.tenor.com/m/eq1ZD8XnCssAAAAC/a-good-insult.gif)
 
 <!--
 **thejhndwn/thejhndwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
