@@ -1,0 +1,57 @@
+name: Update Splash Text
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'  # Daily at midnight UTC; adjust cron as needed (e.g., '*/30 * * * *' for every 30 mins)
+  workflow_dispatch:  # Allows manual trigger for testing
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Update README
+        run: |
+          python -c "
+          import random
+          import re
+
+          # Read splashes
+          with open('splashes.txt', 'r') as f:
+            splashes = f.read().splitlines()
+
+          # Pick random splash
+          splash = random.choice(splashes)
+
+          # Read README
+          with open('README.md', 'r') as f:
+            content = f.read()
+
+          # Define markers
+          start_marker = '<!-- SPLASH -->'
+          end_marker = '<!-- /SPLASH -->'
+
+          # Regex pattern to match content between markers (non-greedy, dotall for multi-line)
+          pattern = re.escape(start_marker) + '(.*?)' + re.escape(end_marker)
+
+          # Replace with new splash wrapped in markers
+          new_content = re.sub(pattern, start_marker + splash + end_marker, content, flags=re.DOTALL)
+
+          # Write back to README
+          with open('README.md', 'w') as f:
+            f.write(new_content)
+          "
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'thejhndwn'
+          git config --global user.email 'github-workflow+splash_updated@gmail.com'
+          git add README.md
+          git commit -m 'Update splash text' || echo "No changes to commit"
+          git push
