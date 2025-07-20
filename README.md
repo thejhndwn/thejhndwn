@@ -1,4 +1,5 @@
-## WELCO-OOOOOOOOOOOOOOOOOOO-OME TO THE THUUUUUUUU-UUUUUUUUUNDERDOME
+# WELCO-OOOOOOOOOOOOOOOOOOO-OME TO THE THUUUUUUUU-UUUUUUUUUNDERDOME
+#### <!-- SPLASH --> <!-- /SPLASH -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thejhndwn&layout=donut)](https://github.com/thejhndwn/github-readme-stats)
 
