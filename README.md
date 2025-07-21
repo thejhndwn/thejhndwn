@@ -1,5 +1,5 @@
 # WELCO-OOOOOOOOOOOOOOOOOOO-OME TO THE THUUUUUUUU-UUUUUUUUUNDERDOME
-### _<!-- SPLASH -->Open source!<!-- /SPLASH -->_
+### _<!-- SPLASH -->Python's Holy Grail!<!-- /SPLASH -->_
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thejhndwn&layout=donut)](https://github.com/thejhndwn/github-readme-stats)
 
