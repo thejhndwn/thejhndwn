@@ -2,6 +2,7 @@
 ### _<!-- SPLASH -->100% pure code!<!-- /SPLASH -->_
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thejhndwn&layout=donut)](https://github.com/thejhndwn/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=thejhndwn)](https://github.com/thejhndwn/github-readme-stats)
 
 ![Funniest movie of all time](https://media1.tenor.com/m/eq1ZD8XnCssAAAAC/a-good-insult.gif)
 
