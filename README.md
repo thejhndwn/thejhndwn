@@ -1,5 +1,5 @@
 # WELCO-OOOOOOOOOOOOOOOOOOO-OME TO THE THUUUUUUUU-UUUUUUUUUNDERDOME
-### _<!-- SPLASH -->90% bug free!<!-- /SPLASH -->_
+### _<!-- SPLASH -->Lisan Al Ghaib!<!-- /SPLASH -->_
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thejhndwn&layout=donut)](https://github.com/thejhndwn/github-readme-stats)
 
