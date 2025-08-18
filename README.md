@@ -1,5 +1,5 @@
 # WELCO-OOOOOOOOOOOOOOOOOOO-OME TO THE THUUUUUUUU-UUUUUUUUUNDERDOME
-### _<!-- SPLASH -->Technoblade never dies!<!-- /SPLASH -->_
+### _<!-- SPLASH -->Django: I dunno what positive means.<!-- /SPLASH -->_
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thejhndwn&layout=donut)](https://github.com/thejhndwn/github-readme-stats)
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=thejhndwn)](https://github.com/thejhndwn/github-readme-stats)
