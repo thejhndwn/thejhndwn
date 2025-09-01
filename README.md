@@ -1,5 +1,5 @@
 # WELCO-OOOOOOOOOOOOOOOOOOO-OME TO THE THUUUUUUUU-UUUUUUUUUNDERDOME
-### _<!-- SPLASH -->Open source!<!-- /SPLASH -->_
+### _<!-- SPLASH -->100% pure code!<!-- /SPLASH -->_
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thejhndwn&layout=donut)](https://github.com/thejhndwn/github-readme-stats)
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=thejhndwn)](https://github.com/thejhndwn/github-readme-stats)
