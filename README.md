@@ -1,5 +1,5 @@
 # WELCO-OOOOOOOOOOOOOOOOOOO-OME TO THE THUUUUUUUU-UUUUUUUUUNDERDOME
-### _<!-- SPLASH -->Also try GitLab!<!-- /SPLASH -->_
+### _<!-- SPLASH -->Lisan Al Ghaib!<!-- /SPLASH -->_
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thejhndwn&layout=donut)](https://github.com/thejhndwn/github-readme-stats)
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=thejhndwn)](https://github.com/thejhndwn/github-readme-stats)
